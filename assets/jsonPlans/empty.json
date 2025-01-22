@@ -1,0 +1,24 @@
+{
+  "planName": "Beispielplan",
+  "patientName": "Max Mustermann",
+  "numberOfTasks": 1,
+  "timeFrameStart": "00:00:00",
+  "timeFrameEnd": "23:59:59",
+  "isVoiceEnabled": false,
+  "isWeatherEnabled": false,
+  "tasks": [
+    {
+      "taskName": "Beispielaufgabe",
+      "taskDescription": "Bespiel Karten Text",
+      "taskHelpText": "Beispiel Hilfetext",
+      "taskCardColor": "#0000FF",
+      "taskFormat": "single",
+      "taskPictures": [
+        {
+          "pictureName": "NoImagefound",
+          "pictureURL": ""
+        }
+      ]
+    }
+  ]
+}

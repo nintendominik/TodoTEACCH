@@ -1,0 +1,54 @@
+{
+    "planName": "Test Plan",
+    "patientName": "John Doe",
+    "numberOfTasks": 3,
+    "timeFrameStart": "07:00:00",
+    "timeFrameEnd": "12:00:00",
+    "isVoiceEnabled": false,
+    "isWeatherEnabled": false,
+    "tasks": [
+        {
+            "taskName": "Take Medication",
+            "taskDescription": "Take 1 pill of medication",
+            "taskHelpText": "Take the medication with water, after breakfast",
+            "taskCardColor": "#FF0000",
+            "taskFormat": 1,
+            "taskPictures": [
+                {
+                    "pictureName": "Medication",
+                    "pictureURL": "https://www.google.com"
+                },
+                {
+                    "pictureName": "Medication2",
+                    "pictureURL": "https://www.google.com"
+                }
+            ]
+        },
+        {
+            "taskName": "Walk",
+            "taskDescription": "Walk for 30 minutes",
+            "taskHelpText": "Walk around the block",
+            "taskCardColor": "#00FF00",
+            "taskFormat": 2,
+            "taskPictures": [
+                {
+                    "pictureName": "Walk",
+                    "pictureURL": "https://www.google.com"
+                }
+            ]
+        },
+        {
+            "taskName": "Eat Breakfast",
+            "taskDescription": "Eat a healthy breakfast",
+            "taskHelpText": "Eat a balanced meal",
+            "taskCardColor": "#0000FF",
+            "taskFormat": 3,
+            "taskPictures": [
+                {
+                    "pictureName": "Breakfast",
+                    "pictureURL": "https://www.google.com"
+                }
+            ]
+        }
+    ]
+}
